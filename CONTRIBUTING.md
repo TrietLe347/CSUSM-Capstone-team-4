@@ -87,7 +87,7 @@ Don’t commit secrets (API keys, .env files, etc).
 Keep dependencies in requirements.txt up to date.
 
 ## 👥 Team Workflow
-Weekly check-ins with our mentor (Thursday 2:30).
+Weekly check-ins with our mentor (Time TBD).
 
 Discord/Teams for quick questions.
 
