@@ -39,7 +39,7 @@ Next steps: 🔄 integrate ONNX/Qualcomm AI Hub models and build the animation p
  Animated stick figure / character mirroring
 
 🤝 Collaboration
-Weekly mentor check-ins (Thursday 2:30).
+Weekly mentor check-ins (Time TBD).
 
 Communication via Discord/Microsoft Teams.
 
